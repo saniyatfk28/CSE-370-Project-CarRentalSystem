@@ -10,8 +10,4 @@ About Us Section: Offers insights into the service's mission and details.
 CRUD Operations: Ensures efficient data management across the system.
 Seamless Integration: Integrates a robust database with a user-friendly website for an optimized rental experience.
 
-Credit:
-Md.Imtaz Kaosar![image](https://github.com/user-attachments/assets/94dadc76-60f8-465a-9aad-3a24cd549fe6)
-Ehasan Ahammed![image](https://github.com/user-attachments/assets/32e0747a-570e-4a39-a1e5-e2f4e4b7f6b8)
-Saniyat Firoz Khan![image](https://github.com/user-attachments/assets/35cda3e3-e410-489f-a69f-b769b45d9702)
 
